@@ -1,0 +1,101 @@
+
+
+[
+  {
+    "id": 1,
+    "title": "Noise Buds VS104",
+    "description": "This is the description of Product 1.",
+    "price": 999,
+    "category": "Electronics",
+    "image":"/src/Images/noise budsvs104.jpg"
+  },
+  {
+    "id": 2,
+    "title": " Lymio Casual Shirt ",
+    "description": "A detailed description of Product 2.",
+    "price": 379,
+    "category": "Men's Clothing",
+    "image": "src/Images/product3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Table Lamp",
+    "description": "Product 3 is the third item in our catalog.",
+    "price": 595,
+    "category": "Home Decore",
+    "image": "src/Images/Table Lamp.webp"
+  },
+  {
+    "id": 4,
+    "title": "Product 4",
+    "description": "Product 4 is a great choice for your needs.",
+    "price": 19999,
+    "category": "Electronics",
+    "image": "src/Images/product2.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Janasya Women's Kurta with Pant and Dupatta",
+    "description": "The fifth product on our list, with all the details you need.",
+    "price": 399,
+    "category": "Women's Clothing",
+    "image": "src/Images/Product5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Apple",
+    "description": "The sixth product on our list, with all the details you need.",
+    "price": 150,
+    "category": "fruits",
+    "image": "src/Images/apple.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Bread",
+    "description": "The seventh product on our list, with all the details you need.",
+    "price": 40,
+    "category": "Bakery",
+    "image": "src/Images/Bread.png"
+  },
+  {
+    "id": 8,
+    "title": "Creamroll",
+    "description": "The eight product on our list, with all the details you need.",
+    "price": 100,
+    "category": "Bakery",
+    "image": "src/Images/CreamRoll.png"
+  },
+  {
+    "id": 9,
+    "title": "Malvani Khari",
+    "description": "The fifth product on our list, with all the details you need.",
+    "price": 100,
+    "category": "Bakery",
+    "image": "src/Images/Khari.png"
+  },
+  {
+    "id": 10,
+    "title": "Womens Jacket",
+    "description": "The fifth product on our list, with all the details you need.",
+    "price": 399,
+    "category": "Women's Clothing",
+    "image": "src/Images/womens jacket.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "Ceil Light",
+    "description": "The fifth product on our list, with all the details you need.",
+    "price": 2000,
+    "category": "Home Decore",
+    "image": "src/Images/Ceil Light.png"
+  },
+  {
+    "id": 12,
+    "title": "Casual shirt for men",
+    "description": "The fifth product on our list, with all the details you need.",
+    "price": 349,
+    "category": "Men's Clothing",
+    "image": "src/Images/casual shirt for men.jpg"
+  }
+]
+  
